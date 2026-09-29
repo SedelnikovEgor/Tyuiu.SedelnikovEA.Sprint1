@@ -1,0 +1,42 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task0.V20.Lib/Tyuiu.SedelnikovEA.Sprint1.Task0.V20.Lib.csproj" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task0.V20.Test/Tyuiu.SedelnikovEA.Sprint1.Task0.V20.Test.csproj" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task0.V20/Tyuiu.SedelnikovEA.Sprint1.Task0.V20.csproj" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task1.V14.Lib/Tyuiu.SedelnikovEA.Sprint1.Task1.V14.Lib.csproj" Id="279bfc31-6729-48d6-ada0-1ec4d0a514c0" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task1.V14.Test/Tyuiu.SedelnikovEA.Sprint1.Task1.V14.Test.csproj" Id="3e7d64b3-a0ba-4a4b-bfa2-bda914da60bd" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task1.V14/Tyuiu.SedelnikovEA.Sprint1.Task1.V14.csproj" Id="3051a23f-088f-427f-ac08-631939ae77ab" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task2.V1.Lib/Tyuiu.SedelnikovEA.Sprint1.Task2.V1.Lib.csproj" Id="a4724411-8df1-4fc3-aba3-cdfcfa2f8cb8" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task2.V1.Test/Tyuiu.SedelnikovEA.Sprint1.Task2.V1.Test.csproj" Id="8441b326-29bb-4af8-8947-f9e9291db121" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task2.V1/Tyuiu.SedelnikovEA.Sprint1.Task2.V1.csproj" Id="5f7e63a5-7643-4b37-a0f5-50832ff71418" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task3.V11.Lib/Tyuiu.SedelnikovEA.Sprint1.Task3.V1.Lib.csproj" Id="a24e668e-621e-4db6-81ca-b7612586ffeb" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task3.V11.Test/Tyuiu.SedelnikovEA.Sprint1.Task3.V1.Test.csproj" Id="4d71e88a-dc57-43b8-bef3-3215a5d06f30" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task3.V11/Tyuiu.SedelnikovEA.Sprint1.Task3.V1.csproj" Id="d0c08f73-35ab-4f5c-9ce0-c014d46d2a9d" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task4.V5.Lib/Tyuiu.SedelnikovEA.Sprint1.Task4.V5.Lib.csproj" Id="fd2f6d7f-4221-4818-acab-60bcdd07b0a3" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task4.V5.Test/Tyuiu.SedelnikovEA.Sprint1.Task4.V5.Test.csproj" Id="75c9b015-03a2-409a-9560-de1e2c06db18" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task4.V5/Tyuiu.SedelnikovEA.Sprint1.Task4.V5.csproj" Id="ec55fd34-5e23-4fe2-a05d-612a930b85bc" />
+  </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task5.V2.Lib/Tyuiu.SedelnikovEA.Sprint1.Task5.V2.Lib.csproj" Id="cac1a0af-fcb7-4066-a37b-a304cf9621cf" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task5.V2.Test/Tyuiu.SedelnikovEA.Sprint1.Task5.V2.Test.csproj" Id="39d8cad3-19d7-4d72-bbbe-6d1e3780409b" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task5.V2/Tyuiu.SedelnikovEA.Sprint1.Task5.V2.csproj" Id="e8aae8c2-b162-49f8-9d06-903f96ba044b" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task6.V4.Lib/Tyuiu.SedelnikovEA.Sprint1.Task6.V4.Lib.csproj" Id="5e5f5e85-24b7-49f9-9ce5-e7bf725a7bc0" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task6.V4.Test/Tyuiu.SedelnikovEA.Sprint1.Task6.V4.Test.csproj" Id="f22bbdfa-4f86-4205-9536-1976dcc8a137" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task6.V4/Tyuiu.SedelnikovEA.Sprint1.Task6.V4.csproj" Id="9ae1a64e-39ee-41d4-bf3f-028e8c1e96ae" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task7.V30.Lib/Tyuiu.SedelnikovEA.Sprint1.Task7.V30.Lib.csproj" Id="29a32d87-6817-44a3-935d-7bc0016a05ce" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task7.V30.Test/Tyuiu.SedelnikovEA.Sprint1.Task7.V30.Test.csproj" Id="8be7daab-8abb-4926-9827-a434c9970266" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint1.Task7.V30/Tyuiu.SedelnikovEA.Sprint1.Task7.V30.csproj" Id="a6d4fce0-b20b-44c2-b8bb-24fc6eefeea8" />
+  </Folder>
+</Solution>
