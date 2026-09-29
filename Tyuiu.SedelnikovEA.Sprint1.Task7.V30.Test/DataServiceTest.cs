@@ -9,10 +9,10 @@ namespace Tyuiu.SedelnikovEA.Sprint1.Task7.V30.Test
         public void ValidExpression()
         {
             DataService ds = new DataService();
-            double x = 0.0;
-            double y = 1.0;
+            double x = 2.0;
+            double y = 4.0;
             var res = ds.Calculate(x, y);
-            Assert.AreEqual(1.2, res);
+            Assert.AreEqual(11.978, res);
         }
     }
 }
